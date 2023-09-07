@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : ayaz92/my-app-note:latest1
+     image : ayaz92/my-note-app:latest1
      ports :
          - "8000:8000"
